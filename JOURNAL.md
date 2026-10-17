@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 10.3h | 8 |
+| Week 2 | Tier 1 | 10.33h | 8 |
 
 ## Contents
 
@@ -230,7 +230,7 @@ I think I'll use two supports under the funnel to support it, as the bottom is f
 
 ### 2026-10-17 – Now the tracks!
 
-**0.8h**
+**0.83h**
 
 Now the tracks!
 
