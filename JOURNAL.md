@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 11.3h | 8 |
+| Week 2 | Tier 1 | 10.3h | 8 |
 
 ## Contents
 
@@ -201,7 +201,7 @@ I think this is enough of Onshape for today.
 
 ### 2026-10-17 – Today I will design what kind of marble track I want to make. So I imported the guides demo track and it looks so cool. -->
 
-**3.5h**
+**2.5h**
 
 Today I will design what kind of marble track I want to make. So I imported the guides demo track and it looks so cool. -->
 
