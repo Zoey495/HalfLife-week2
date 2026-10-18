@@ -9,7 +9,8 @@ Through Onshape, a free 3D CAD software, I made a marble track as well as a marb
 
 The software is a bit difficult to get used to if its your first time, but after experimenting with it for a bit, eventually, a rhythm will form and you will get how to do things.
 
-You can make planes, an area where you can sketch shapes, extrude these sketches to make them 3D, or you can also use revolve to make spheres and funnels. You can also make a sketch like a circle and a line, and use a tool called sweep, where it basically repeats the shape following the path designated, this is how most of the tracks are created. Onshape starts with 3 planes, however, they often aren't in specific enough areas so you have to create your own planes using lines and the plane creator. There are many more tools and settings so it can be overwhelming.
+You can make planes, an area where you can sketch shapes, extrude these sketches to make them 3D, or you can also use revolve to make spheres and funnels. You can also make a sketch like a circle and a line, and use a tool called sweep, where it basically repeats the shape following the path designated, this is how most of the tracks in the marble final project are created. Onshape starts with 3 planes, however, they often aren't in specific enough areas so you have to create your own planes using lines and the plane creator. There are many more tools and settings so it can be overwhelming.
+
 If you are trying out onshape for the first time, start off small and mess around a bit before making something as difficult as a marble track.
 
 Here are some photos of beginning designs to older ones -->
