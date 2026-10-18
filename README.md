@@ -15,30 +15,31 @@ If you are trying out onshape for the first time, start off small and mess aroun
 
 Here are some photos of beginning designs to older ones -->
 
-
+--------
 <img width="453" height="368" alt="image" src="https://github.com/user-attachments/assets/5a794c3d-c8b6-4920-98d7-de86df1576d3" />
 
 (example of sweep tool)
-
+---------
 
 <img width="434" height="345" alt="image" src="https://github.com/user-attachments/assets/da851b55-de64-4245-a49a-781b833fcb1c" />
 
 (example of sweep tool + custom plane)
 
-
+---------
 <img width="530" height="418" alt="image" src="https://github.com/user-attachments/assets/ea729211-d167-462b-9624-0828fa25cc95" />
 
 (example of the potential of extrude)
-
+-----------
 
 <img width="472" height="382" alt="image" src="https://github.com/user-attachments/assets/a63c63cc-3d57-4d15-a9a0-6586f3f1c684" />
 
 (example of potential of extrude + extrude settings)
-
+--------
 
 <img width="568" height="434" alt="image" src="https://github.com/user-attachments/assets/10108e19-826f-424d-b8b3-898339fb682c" />
 
 (example of revolve around an axis)
+---------
 
 These are just a few things you can do.
 
